@@ -15,4 +15,3 @@
 7. Implementa una función llamada "insercion_ordenada" que reciba como parámetro una lista de números enteros y utilice el algoritmo de ordenamiento por inserción para ordenarla de forma ascendente. Luego, llama a esta función pasando la lista "numeros" y muestra la lista ordenada en pantalla.
 
 8. [Opcional] Mantener el codigo ordenado comentando el codigo de manera razonable, no vale tirar comentarios ahi porque si.
-9.
